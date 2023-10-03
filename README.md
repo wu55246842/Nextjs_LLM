@@ -1,5 +1,5 @@
 <p align="center"><img src="./public/laowudiFish.png" alt="Logo" width="300" height="300"></p>
-<h1 align="center">Spotify</h1>
+<h1 align="center">Nextjs LLM</h1>
 <h4 align="center">built using React, Next.js, Tailwind CSS and Spotify API.</h4>
 
 
